@@ -1,0 +1,12 @@
+## Index of source code examples:
+
+\Compare PDF Documents with PDF Extractor SDK
+\Convert Protected PDF Document to Excel (C++ CLR) with PDF Extractor SDK
+\Extract PDF Pages with PDF Extractor SDK
+\Extract Text from PDF with PDF Extractor SDK
+\Find Table And Extract As CSV from PDF with PDF Extractor SDK
+\Merge PDF Documents with PDF Extractor SDK
+\Merge Protected PDF Documents (C++ CLR) with PDF Extractor SDK
+\PDF and OCR (Optical Character Recognition) with PDF Extractor SDK
+\Split PDF Document with PDF Extractor SDK
+\Split Protected PDF Document (C++ CLR) with PDF Extractor SDK
